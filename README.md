@@ -1,4 +1,4 @@
-# Assignment-7
+# Examples of S3 & S4 classes
 data(mtcars)
 mtcars_class <- "my_mtcars_class"
 mtcars <- list(data = mtcars)
